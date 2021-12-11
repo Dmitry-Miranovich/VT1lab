@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WebTechnologyLab1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebTechnologyLab1_jar</output-path>
+    <root id="archive" name="WebTechnologyLab1.jar">
+      <element id="module-output" name="WebTechnologyLab1" />
+    </root>
+  </artifact>
+</component>
